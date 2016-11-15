@@ -16,3 +16,5 @@
 !*.jar
 !*.java
 !pom.xml
+!StudyNote
+!.gitgnore
